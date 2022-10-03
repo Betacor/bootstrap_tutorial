@@ -1,0 +1,12 @@
+Bootstrap: libreria de estilos CSS, creada por twitter, cuya ppal cttc es dotar a los sitios web de responsividad.
+
+CDN (Content Delivery Network):Red de Distribución de contenidos
+
+Pagina oficial: https://getbootstrap.com/docs/5.0/components
+
+sm: small
+md: medium
+lg: large
+xl: extra large
+
+Bootstrap Studio
